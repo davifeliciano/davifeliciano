@@ -1,39 +1,33 @@
 ### Hey there 👋
 
-I have a Bachelor of Science in Physics by the University of Brasilia with a
-emphasis on Computational Physics. There I've developed my first programs in C,
-like the [libmatrix](https://github.com/davifeliciano/libmatrix) library, and
-learned Python, the programming language I used in many projects, like
-[molecular_dynamics](https://github.com/davifeliciano/molecular_dynamics),
-[ising_animate](https://github.com/davifeliciano/ising_animate) and
-[num_opt_ga](https://github.com/davifeliciano/num_opt_ga) the latter being an
-implementation of an Genetic Algorithm I've applied in my final thesis. I've
-used Python along with Numpy, Pandas and Matplotlib in the data analysis of many
-relevant educational physics experiments, like
-[stefan_boltzmann](https://github.com/davifeliciano/stefan_boltzmann),
-[frank_hertz](https://github.com/davifeliciano/frank_hertz) and
-[xrays](https://github.com/davifeliciano/xrays) (unfortunately, these repos lack
-a documentation, but the results can be seen in the plots subdir). These
-projects have introduced me to the field of Data Science, which I'm currently
-exploring and learning from. Recently I've started to learn Web development using
-Python, building small Flask applications like
-[flask_blog](https://github.com/davifeliciano/flask_blog), working further to
-expand my knowledge to other programming languages and frameworks. I'm also
-enjoying learning Go reading the book "The Go Programming Language" by Brian
-Kernighan and writing the exercises on the repository
-[gobook](https://github.com/davifeliciano/gobook).
+<div style="display:flex;flex-wrap:wrap;gap:1rem;margin:2rem">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200rem"
+         src="https://github-readme-stats.vercel.app/api?username=davifeliciano"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200rem" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifeliciano&langs_count=10&layout=compact"/>
+  </a>
+</div>
 
-<!--
-**davifeliciano/davifeliciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I have a Bachelor of Science in Physics by the University of Brasilia with
+  emphasis on Computational Physics
 
-Here are some ideas to get you started:
+* Interested in Web Development, Data Science, Linux, Mathematics, Machine
+  Learning, Genetic Algorithms and much more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently in a Full Stack Web Development Bootcamp hosted by
+  [Driven Education](https://www.driven.com.br)
+
+* Learning Golang reading "The Go Programming Language" by Brian Kernighan my
+  spare time
+
+### How to reach me 📫
+
+<div style="margin-top:1rem;">
+  <a href="https://www.linkedin.com/in/davifeliciano/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         target="_blank">
+  </a>
+</div>
